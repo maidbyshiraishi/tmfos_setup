@@ -11278,7 +11278,7 @@
         "UseSystemSearchPath" = "11:TRUE"
         "TargetPlatform" = "3:1"
         "PreBuildEvent" = "8:"
-        "PostBuildEvent" = "8:\"C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.19041.0\\x86\\MsiInfo.exe\" $(BuiltOuputPath) -W 10"
+        "PostBuildEvent" = "8:\"C:\\Program Files (x86)\\Windows Kits\\10\\bin\\10.0.26100.0\\x86\\MsiInfo.exe\" $(BuiltOuputPath) -W 10"
         "RunPostBuildEvent" = "3:0"
         }
         "Registry"
